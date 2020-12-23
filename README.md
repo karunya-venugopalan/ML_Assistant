@@ -20,10 +20,10 @@ The files in Output files are as follows:
 1. TextPdf.pdf - Consists of the text part of the Analysis process
 2. plots.pdf - Consists of the plots done in the Analysis process. A few sample screenshots are given below:
 
-      <img width="360" height="500" alt="graph1" src="https://user-images.githubusercontent.com/57533513/102979146-a9d2b200-452b-11eb-93a2-58da19a86dde.PNG">
+      <img width="500" height="500" alt="graph1" src="https://user-images.githubusercontent.com/57533513/102979146-a9d2b200-452b-11eb-93a2-58da19a86dde.PNG">
     
                
-      <img width="300" alt="graph3" src="https://user-images.githubusercontent.com/57533513/102979252-d71f6000-452b-11eb-9bcb-92dbdbf56fb1.PNG">
+      <img width="300" height ="300" alt="graph3" src="https://user-images.githubusercontent.com/57533513/102979252-d71f6000-452b-11eb-9bcb-92dbdbf56fb1.PNG">
     
 
       <img width="400" alt="graph2" src="https://user-images.githubusercontent.com/57533513/102979259-d981ba00-452b-11eb-9b09-81558f25e195.PNG">
