@@ -20,6 +20,8 @@ The files in Output files are as follows:
 1. TextPdf.pdf - Consists of the text part of the Analysis process
 2. plots.pdf - Consists of the plots done in the Analysis process. A few sample screenshots are given below:
 
+<img width="327" alt="graph1" src="https://user-images.githubusercontent.com/57533513/102979146-a9d2b200-452b-11eb-93a2-58da19a86dde.PNG">
+
 
 3. combined_output.pdf - Combination of the above two files
 4. test_copy.csv - copy of the test.csv which was provided along with a new column with the prediction made by the program
