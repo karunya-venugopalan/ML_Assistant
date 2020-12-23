@@ -18,7 +18,9 @@ The files in Input files are as follows:
 
 The files in Output files are as follows:
 1. TextPdf.pdf - Consists of the text part of the Analysis process
-2. plots.pdf - Consists of the plots done in the Analysis process
+2. plots.pdf - Consists of the plots done in the Analysis process. A few sample screenshots are given below:
+
+
 3. combined_output.pdf - Combination of the above two files
 4. test_copy.csv - copy of the test.csv which was provided along with a new column with the prediction made by the program
 
